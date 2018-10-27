@@ -1,0 +1,19 @@
+.header {
+    background-image: url("../images/headerbg.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    padding-top: 2.5rem;
+}
+
+article{
+    padding-left: 20px;
+    padding-top: 25px;
+}
+
+.footer{
+    background-color: #f2f2f2;
+    padding-top: 1.5rem;
+}
